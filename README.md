@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Facundo Diaz - [Github](https://github.com/facu2279)  
-Chloe Dumit - [Github](https://github.com/ChloeDumit)
+Tomas De Castro - [Github](https://github.com/tomi1710)  
+Matias Pirez - [Github](https://github.com/Ripjawws)
 
 ## License
 Public Domain. No copy write protection. 
